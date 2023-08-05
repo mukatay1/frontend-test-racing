@@ -1,0 +1,1 @@
+export { CustomSVG } from './CustomSvg';
